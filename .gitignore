@@ -6,3 +6,7 @@ foundryvtt*.zip
 
 # Docker Compose
 docker-compose.local.yaml
+.env
+
+# Node
+node_modules/

@@ -1,0 +1,26 @@
+{
+  "timestamp": 1708398875909,
+  "os": {
+    "platform": "linux",
+    "version": "Alpine Linux v3.18",
+    "node": "16.20.2"
+  },
+  "foundry": {
+    "generation": 11,
+    "build": 315,
+    "channel": "stable",
+    "hosting": null
+  },
+  "modules": {},
+  "systems": {
+    "dnd5e": {
+      "version": "3.0.2",
+      "playtime": 35534
+    }
+  },
+  "worlds": {},
+  "playtime": {
+    "total": 35534,
+    "max": 33798
+  }
+}

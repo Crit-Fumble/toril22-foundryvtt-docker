@@ -1,0 +1,53 @@
+{
+    "id": "poi-teleport",
+    "title": "Point of Interest Teleporter",
+    "description": "Activate and view scenes directly from map notes.",
+    "authors": [
+        {
+            "name": "zeel",
+            "email": "zeel02@gmail.com",
+            "url": "https://github.com/zeel01",
+            "discord": "zeel#4200"
+        }
+    ],
+    "version": "0.3.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10
+    },
+    "scripts": [
+        "poi-teleport.js"
+    ],
+    "styles": [
+        "poi-teleport.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "es",
+            "name": "Español",
+            "path": "lang/es.json"
+        }
+    ],
+    "manifest": "https://github.com/zeel01/poi-teleport/releases/latest/download/module.json",
+    "url": "https://github.com/zeel01/poi-teleport",
+    "download": "https://github.com/zeel01/poi-teleport/releases/download/v0.3.0/poi-teleport.zip",
+    "readme": "https://github.com/zeel01/poi-teleport/blob/master/readme.md",
+    "bugs": "https://github.com/zeel01/poi-teleport/issues",
+    "changelog": "https://github.com/zeel01/poi-teleport/releases",
+    "license": "https://github.com/zeel01/poi-teleport/blob/master/LICENSE",
+    "media": [
+        {
+            "type": "cover",
+            "link": "https://raw.githubusercontent.com/zeel01/poi-teleport/master/cover.png"
+        },
+        {
+            "type": "icon",
+            "link": "https://avatars2.githubusercontent.com/u/1721836"
+        }
+    ]
+}
