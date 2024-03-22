@@ -1,1 +1,0 @@
-export default class ServerError extends Error{constructor(s,r){super(s),r&&(this.stack=r)}toJSON(){return{class:this.constructor.name,message:this.message,stack:this.stack}}}

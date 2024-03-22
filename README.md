@@ -150,4 +150,3 @@ Replace `127.0.0.1` with your own IP address.
 
 you can customize your login screen using a fix such as this one:
 [prettier login screen](https://github.com/TheEpicSnowWolf/Foundry-VTT-Prettier-Login-Screen)
-

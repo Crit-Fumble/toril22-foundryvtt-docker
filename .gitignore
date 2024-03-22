@@ -1,5 +1,8 @@
 # Ignore the zip file
 foundryvtt*.zip
+volumes/data/**/*
+volumes/host/**/*
+volumes/app/**/*
 
 # IDE
 .vscode/

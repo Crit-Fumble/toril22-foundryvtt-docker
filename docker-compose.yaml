@@ -2,11 +2,11 @@ version: '3'
 services:
   foundryvtt:
     image: direckthit/fvtt-docker:latest
-    container_name: fvtt
+    container_name: toril22-fvtt
     ports: 
       - 30000:30000
     volumes:
-      - ./shared/data:/data/foundryvtt
-      - ./shared/host:/host
-      - ./shared/app:/opt/foundryvtt/resources/app
+      - ./volumes/host:/host
+      - ./volumes/data:/data/foundryvtt
+      - ./volumes/app:/opt/foundryvtt/resources/app
     restart: unless-stopped

@@ -1,1 +1,0 @@
-import View from"./view.mjs";export default class ErrorView extends View{route="/no";_methods=["get"];async handleGet(e,r,...o){View.error(e,r,...o)}}
